@@ -14,3 +14,5 @@ S
 #src/class1/ex/MovieReviewMain1.java,9\7\97e900568f024dc53bfb7bedffd87941616ec9f2
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+S
+#src/class1/ex/MovieReviewMain2.java,6\8\6844af2098c0ee2a1d800b5d0d948b87a24a4533
