@@ -42,3 +42,9 @@ w
 G.idea/sonarlint/issuestore/6/5/6583530984cb5d5d188aa2537c2d68f23919b6ff,a\5\a5d0e556187be4f048c5fab6ffcc179ebdb2fa75
 K
 src/class1/ClassStart4.java,7\4\74288dc24a0dbd80a824e83dd4dce408a84b1386
+N
+src/class1/ex/MovieReview.java,d\3\d348b59f92639e51b55b1ffbbc97b5c7aebe7319
+R
+"src/class1/ex/MovieReviewMain.java,d\8\d81b106a582f7a1c05b9bc0607f060f536cc5823
+S
+#src/class1/ex/MovieReviewMain1.java,9\7\97e900568f024dc53bfb7bedffd87941616ec9f2
