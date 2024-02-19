@@ -40,3 +40,5 @@ Q.idea/sonarlint/securityhotspotstore/a/7/a7219c88b44902491af74b376148543ddefb0e
 Q.idea/sonarlint/securityhotspotstore/9/f/9fc1cffc98f61b86d3c7066f79444efdd1acb757,7\1\7132c1e95de2762a3506455401726d1c88328174
 w
 G.idea/sonarlint/issuestore/6/5/6583530984cb5d5d188aa2537c2d68f23919b6ff,a\5\a5d0e556187be4f048c5fab6ffcc179ebdb2fa75
+K
+src/class1/ClassStart4.java,7\4\74288dc24a0dbd80a824e83dd4dce408a84b1386
