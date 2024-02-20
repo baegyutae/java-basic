@@ -5,8 +5,6 @@ public class ProductOrderMain2 {
     public static void main(String[] args) {
         ProductOrder[] orders = new ProductOrder[3];
 
-        // 첫 번째 상품 주문 정보 입력
-
         orders[0] = createOrder("두부", 2000, 2);
         orders[1] = createOrder("김치", 5000, 1);
         orders[2] = createOrder("콜라", 1500, 2);
@@ -16,9 +14,9 @@ public class ProductOrderMain2 {
         System.out.println("총 결제 금액: " + totalAmount);
     }
 
-    static ProductOrder createOrder(String prodectName, int price, int quantity) {
+    static ProductOrder createOrder(String productName, int price, int quantity) {
         ProductOrder order = new ProductOrder();
-        order.productName = prodectName;
+        order.productName = productName;
         order.price = price;
         order.quantity = quantity;
         return order;
