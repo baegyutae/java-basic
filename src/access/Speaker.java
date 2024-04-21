@@ -2,7 +2,7 @@ package access;
 
 public class Speaker {
 
-    int volume;
+    private int volume; // private 사용
 
     Speaker(int volume) {
         this.volume = volume;
